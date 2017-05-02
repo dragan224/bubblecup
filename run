@@ -1,2 +1,0 @@
-g++ -w City\ Major.cpp -o a
-./a < input.txt
