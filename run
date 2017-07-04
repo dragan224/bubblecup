@@ -1,2 +1,3 @@
-g++ -w City\ Major.cpp -o a
+g++ -w -O2 -std=c++11 Knights\ Move.cpp -o a
 ./a < input.txt
+rm a
